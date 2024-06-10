@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\xv_dotnet_demo.props" />
-</Project>

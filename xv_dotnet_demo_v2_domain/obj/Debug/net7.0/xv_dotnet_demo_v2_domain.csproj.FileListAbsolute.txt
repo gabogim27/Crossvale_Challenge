@@ -1,5 +1,0 @@
-C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_domain\bin\Debug\net7.0\xv_dotnet_demo_v2_domain.deps.json
-C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_domain\bin\Debug\net7.0\xv_dotnet_demo_v2_domain.dll
-C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_domain\obj\Debug\net7.0\xv_dotnet_demo_v2_domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_domain\obj\Debug\net7.0\xv_dotnet_demo_v2_domain.AssemblyInfoInputs.cache
-C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_domain\obj\Debug\net7.0\xv_dotnet_demo_v2_domain.AssemblyInfo.cs
