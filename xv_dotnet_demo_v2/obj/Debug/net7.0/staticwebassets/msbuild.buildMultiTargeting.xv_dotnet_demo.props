@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\xv_dotnet_demo.props" />
+</Project>

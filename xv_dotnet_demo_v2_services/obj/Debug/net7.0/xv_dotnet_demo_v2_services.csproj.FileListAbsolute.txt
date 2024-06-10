@@ -1,0 +1,6 @@
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\bin\Debug\net7.0\xv_dotnet_demo_v2_domain.dll
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\bin\Debug\net7.0\xv_dotnet_demo_v2_infrastructure.dll
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\obj\Debug\net7.0\xv_dotnet_demo_v2_services.csproj.AssemblyReference.cache
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\obj\Debug\net7.0\xv_dotnet_demo_v2_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\obj\Debug\net7.0\xv_dotnet_demo_v2_services.AssemblyInfoInputs.cache
+C:\Repositorio\xv_dotnet_demo_v2\xv_dotnet_demo_v2_services\obj\Debug\net7.0\xv_dotnet_demo_v2_services.AssemblyInfo.cs
